@@ -1,3 +1,12 @@
+
+
+
+
+
+
+
+
+
 const assert = require('assert');
 class bankCustomer {
     private name : string;
